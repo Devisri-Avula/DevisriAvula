@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DevisriAvula
 - 👀 I’m interested in Writing, coding, learing physics, Quantum computing
 - 🌱 I’m currently learning Advanved Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on group learning and doing projects
 - 📫 How to reach me ... Mail me on avuladevisri@gmail.com
 
 <!---
